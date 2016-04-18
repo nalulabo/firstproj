@@ -2,6 +2,6 @@
 
 リポジトリを１つも作っていないと、ロボットと認識されてしまうようです。
 
-![スクリーンショット](https://raw.githubusercontent.com/nalulabo/firstproj/master/201604181613-001.jpg)
+![スクリーンショット](https://raw.githubusercontent.com/nalulabo/firstproj/master/201604181613-001.JPG)
 
 気を付けよう。
